@@ -1,0 +1,36 @@
+/* Simple Selectors has 5 types  */
+
+/* 1   */
+/* Universal Selectors  */
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+/* 2 Element Selector */
+/* h1 {
+  background-color: hotpink;
+  color: white;
+} */
+
+/* 3 class seletor */
+/* .h1 {
+  background-color: hotpink;
+  color: white;
+} */
+
+/* 4 ID selector */
+/* #h-1 {
+  background-color: hotpink;
+  color: white;
+} */
+
+/* 5 selector list */
+/* .h1,
+.h2,
+.h3,
+.h4,
+.h5 {
+  background-color: hotpink;
+  color: white;
+} */

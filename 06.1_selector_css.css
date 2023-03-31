@@ -1,0 +1,39 @@
+/* Combinators Selectors */
+
+/* 1 Descendant selector */
+/* div h1 {
+  background-color: hotpink;
+  color: white;
+} */
+
+/* 2 Chilld selector */
+
+/* main > p {
+  font-family: cursive;
+  font-size: 30px;
+} */
+
+/* 3 Adjacent sibling selector */
+/* h1 + h1 {
+  border: 1px solid black;
+  border-radius: 50px;
+  text-align: center;
+} */
+
+/* 4  general sibling selector*/
+/* h1 ~ h1 {
+  border: 1px solid brown;
+  text-align: center;
+  border-radius: 50px;
+} */
+
+/* 5 Attribute Selector */
+/* [target="_blank"] {
+  text-decoration: none;
+  color: hotpink;
+} */
+
+
+/* [alt~="kk"] {
+  background-color: hotpink;
+} */

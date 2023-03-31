@@ -1,0 +1,23 @@
+* {
+  font-family: cursive;
+}
+.Header,
+.footer {
+  display: grid;
+  grid-template-rows: 100px;
+}
+.content {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr 1fr 1fr;
+  grid-template-rows: 400px;
+}
+.box {
+  /* height: 100px;
+  width: 100px; */
+  background-color: hotpink;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
